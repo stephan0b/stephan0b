@@ -1,4 +1,5 @@
-<center> ![me](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlkYjI1M2VibGdydTY3dTJrajRzZW5za3g1Y3JpZWZranhpY210cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif) </center>center>
+<p align=center> ![me](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlkYjI1M2VibGdydTY3dTJrajRzZW5za3g1Y3JpZWZranhpY210cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif) </p>
+
 # 💫 About Me:
 Hi there, I'm Stephanie 👋<br><br>I'm a year 2 computer science student with a passion for coding. I enjoy building projects, solving problems, and learning new technologies. 💻<br><br>- 📚 Currently studying Computer Science with a second major in Business at NTU<br>- 🔍 Actively working on improving my coding proficiency<br>- 📝 Learning new programming languages and frameworks<br>- 🎓 Open to internship opportunities and collaborations<br><br>Thanks for stopping by! 😊<br>
 

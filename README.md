@@ -7,7 +7,6 @@ Hi there, I'm Stephanie 👋<br><br>I'm a year 2 computer science student with a
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephanie-heather-zaw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:szaw001@e.ntu.edu.sg) 
 <p><a target="_blank" href="[Your LinkedIn URL](https://linkedin.com/in/stephanie-heather-zaw)" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42" /></a> 
 <a target="_blank" href="mailto:stephaniehzhx@gmail.com" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="42" height="42" /></a>
 <a target="_blank" href="mailto:szaw001@e.ntu.edu.sg" style="display: inline-block;"><img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="Outlook" width="42" height="42" /></a>

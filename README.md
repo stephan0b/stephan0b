@@ -18,4 +18,4 @@ Hi there, I'm Stephanie 👋<br><br>I'm a year 2 computer science student with a
   <img alt="github-snake" src="https://raw.githubusercontent.com/stephan0b/stephan0b/output/github-snake.svg" />
 </picture>
 
-![https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlkYjI1M2VibGdydTY3dTJrajRzZW5za3g1Y3JpZWZranhpY210cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif]
+![me](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlkYjI1M2VibGdydTY3dTJrajRzZW5za3g1Y3JpZWZranhpY210cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)

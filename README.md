@@ -6,7 +6,7 @@
 Hi there, I'm Stephanie 👋<br><br>I'm a year 2 computer science student with a passion for coding. I enjoy building projects, solving problems, and learning new technologies. 💻<br><br>- 📚 Currently studying Computer Science with a second major in Business at NTU<br>- 🔍 Actively working on improving my coding proficiency<br>- 📝 Learning new programming languages and frameworks<br>- 🎓 Open to internship opportunities and collaborations<br><br>Thanks for stopping by! 😊<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p><a target="_blank" href="https://linkedin.com/in/stephanie-heather-zaw" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42" /></a> 
 <a target="_blank" href="mailto:stephaniehzhx@gmail.com" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="42" height="42" /></a>
 <a target="_blank" href="mailto:szaw001@e.ntu.edu.sg" style="display: inline-block;"><img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="Outlook" width="42" height="42" /></a>
